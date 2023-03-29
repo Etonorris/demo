@@ -1,0 +1,8 @@
+копирование файлов с глобал на пк
+С:\Git>git clone https://github.com/Etonorris/QA-engineering---courses.git
+
+Добавление файлов из локального диска в глобал
+git add . или имя файла 
+git commit -m "комментарий"
+git push
+
